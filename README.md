@@ -1,6 +1,8 @@
-# NaNoWriMo
+# Wallet
 
-National Novel Writing Month 2018
+> What if you had a few hundred million dollars in your wallet, but you don't remember where you left it?
+
+"Wallet" (working title) is a crypto-punk story about a man trying to survive in the post-normal world.
 
 ## Index
 
