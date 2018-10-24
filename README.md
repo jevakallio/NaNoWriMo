@@ -2,6 +2,12 @@
 
 National Novel Writing Month 2018
 
+## Index
+
+- [Chapter 1](chapters/01.md) (November 1, 0 words)
+
+## FAQ
+
 ### What's the novel about?
 
 It's too early to talk about it. Come back November 1 to find out.
