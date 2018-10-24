@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+.markdown-body {
+  max-width: 720px;
+  font-family: Palatino, Cambria, Georgia, Times, "Times New Roman", serif;
+}
+.markdown-body p {
+  line-height: 1.8em;
+  text-indent: 2em;
+}
+.markdown-body ul {
+  list-style: none;
+}
+.markdown-body ul li::before {
+  content: "– ";
+}
