@@ -20,9 +20,9 @@ Maybe if he can write one big story he can get a book deal and ride it to retire
 
 ### Opportunity
 
-Via a cryptic message on his article, he finds out that he might be a millionaire -- in bitcoin. When he was writing a story about it back in 2009, he met EXGF as part of the research of the story, and as part of the story he buys some bitcoin. As an attempt to impress her, he buys $1000 worth -- now worth over $200 million.
+Via a cryptic message on his article, he finds out that he might be a millionaire -- in bitcoin. When he was writing a story about it back in 2009, he met Ada as part of the research of the story, and as part of the story he buys some bitcoin. As an attempt to impress her, he buys $1000 worth -- now worth over $200 million.
 
-He doesn't really understand anything about Bitcoin. Merida and Nicky help him understand it, but it's of no use -- he no longer has the computer he used to buy it. It vanished along with EXGF along mysterious circumstances.
+He doesn't really understand anything about Bitcoin. Merida and Nicky help him understand it, but it's of no use -- he no longer has the computer he used to buy it. It vanished along with Ada along mysterious circumstances.
 
 He needs to find her. Earlier in their relationship, she gave him an emergency contact he could use in case he ever needed to, but only in drastic emergencies. Surely this one counts?
 
@@ -38,13 +38,13 @@ She disappears into the aether, leaving him holding the address of a safe house 
 
 Wint doesn't believe her. She was always crazy, and she's clearly gone off her rocker. Wint tries to go on with his life, but mysterious things start to happen. His office is broken into. His landlady reports there were strange men at his house.
 
-Half hoping EXGF still has his wallet, he takes the necessary precautions (fly to Norway, cross the border, etc...?) and goes to the safe house.
+Half hoping Ada still has his wallet, he takes the necessary precautions (fly to Norway, cross the border, etc...?) and goes to the safe house.
 
 ### Safe house (in Helsinki)
 
 He gets there and meets a cast and crew of characters living off the grid. They have computers, but none of them are connected to the internet. When they need internet connections, they go wardriving or to public networks -- none of which can be trusted.
 
-EXGF has not been seen since he met Wint, and it's all Wint's fault. We hear about the importance of EXGF to the movement.
+Ada has not been seen since he met Wint, and it's all Wint's fault. We hear about the importance of Ada to the movement.
 
 Wint needs to work together with the Safe house residents to find her, and perhaps, save her.
 
@@ -68,11 +68,11 @@ We find that as both of these characters' Belief character sliders move closer t
 
 ### Zee's interlude
 
-Zee finds Wint (and EXGF).
+Zee finds Wint (and Ada).
 
 Turns out Zee is actually not a bad guy after all, just a kid way in over his head in a deadly game. None of his money is actually his own, and he thinks, maybe Wint's wealth can help him buy the paper outright so that he can get out and turn it around?
 
-(Has Wint been working for the evil corp all along? When he finds out, his mission flips -- instead of saving the paper, they must save EXGF and destroy the paper's investors to free him.
+(Has Wint been working for the evil corp all along? When he finds out, his mission flips -- instead of saving the paper, they must save Ada and destroy the paper's investors to free him.
 
 ### Things that must happen
 
