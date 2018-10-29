@@ -8,6 +8,12 @@
 - Until one day, he is thrust into the middle of a dangerous power play between a group of digital freedom fighters and the powers upholding the status quo (how very Star Wars)
 - Drinks too much
 
+### Focal style
+
+- Literary and writerly references
+- Lots of indirect speech
+- Non-technical language
+
 ### Relationships
 
 #### Romantic
