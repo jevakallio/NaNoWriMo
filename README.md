@@ -4,11 +4,17 @@ _What if you had a few hundred million dollars in your wallet, but you don't rem
 
 "Wallet" (working title) is a crypto-punk story about a man trying to survive in the post-normal world.
 
+![Photo by Hans Eiskonen on Unsplash](assets/images/banner.jpg)
+
+(Photo by [Hans Eiskonen](https://unsplash.com/@eiskonen) on [Unsplash](https://unsplash.com))
+
 ## FAQ
 
 ### When can I read it?
 
 You can read my daily chapters starting November 1st. I'll try to write most days, finishing at over 50,000 words on November 30th as per the rules of [NaNoWriMo](http://nanowrimo.org).
+
+[Follow me on Twitter](https://twitter.com/jevakallio) for updates throughout the month.
 
 ### Where can I read it?
 
