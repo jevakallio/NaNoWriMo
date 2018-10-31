@@ -1,5 +1,3 @@
-# Wallet - A NaNoWriMo novel
-
 _What if you had a few hundred million dollars in your wallet, but you don't remember where you left it?_
 
 "Wallet" (working title) is a crypto-punk story about a man trying to survive in the post-normal world.
@@ -47,7 +45,3 @@ Please don't leave comments about typos and such, but if you want to help fix th
 ### Why use GitHub?
 
 Why not!
-
-## Index
-
-- [Chapter 1](chapters/01.md) (November 1, 0 words)
