@@ -6,6 +6,10 @@ _What if you had a few hundred million dollars in your wallet, but you don't rem
 
 (Photo by [Hans Eiskonen](https://unsplash.com/@eiskonen) on [Unsplash](https://unsplash.com))
 
+## Table of Contents
+
+- [Preface](chapters/00-preface.md)
+
 ## FAQ
 
 ### When can I read it?
