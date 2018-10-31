@@ -1,4 +1,4 @@
-# Wallet
+# Wallet - A NaNoWriMo novel
 
 _What if you had a few hundred million dollars in your wallet, but you don't remember where you left it?_
 
