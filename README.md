@@ -6,9 +6,11 @@ _What if you had a few hundred million dollars in your wallet, but you don't rem
 
 (Photo by [Hans Eiskonen](https://unsplash.com/@eiskonen) on [Unsplash](https://unsplash.com))
 
+Here for the first time? [Start reading here!](chapters/00-preface.md)
+
 ## Table of Contents
 
-- [Preface](chapters/00-preface.md) - Start here!
+- [Preface](chapters/00-preface.md)
 - [Chapter 1](chapters/01.md) - November 1 - 2533 words (12m read)
 - [Chapter 2](chapters/02.md) - November 1 - 1539 words (8m read)
 - [Chapter 3](chapters/03.md) - November 1 - 2820 words (14m read)
@@ -19,7 +21,7 @@ _What if you had a few hundred million dollars in your wallet, but you don't rem
 
 You can read my daily chapters starting November 1st. I'll try to write most days, finishing at over 50,000 words on November 30th as per the rules of [NaNoWriMo](http://nanowrimo.org).
 
-[Follow me on Twitter](https://twitter.com/jevakallio) for updates throughout the month.
+[Follow @wallet_novel on Twitter](https://twitter.com/wallet_novel) for updates throughout the month.
 
 ### Where can I read it?
 
@@ -52,3 +54,13 @@ Please don't leave comments about typos and such, but if you want to help fix th
 ### Why use GitHub?
 
 Why not!
+
+### About the author
+
+[Jani Eväkallio](https://twitter.com/jevakallio) is a Finnish writer, comedian, improviser and a software programmer living in London. This is his first (self-)published novel.
+
+### LICENSE
+
+Despite being freely available to read on the Internet, the author reserves all intellectual property rights to the book and any other material in the GitHub repository at https://github.com/jevakallio/NaNoWriMo . He is too lazy trying to figure out how to express that in legal language, but basically that means you can not reprint or distribute this book in any form, for free or for profit, other than on [this website](https://jevakallio.github.io/NaNoWriMo).
+
+All contributions to this book, either in form of GitHub issues or pull requests become the author's sole property (this is the point where he's trying to sound fancy and legalese-y, and realised he has no idea what he is doing so he's changing tone for the next sentence) and he gets to do whatever he wants with them, and that's just the way _that_ goes.
