@@ -19,6 +19,12 @@ Here for the first time? [Start reading here!](chapters/00-preface.md)
 
 _Current total: 14027 words (28.1% of NaNoWriMo goal)._
 
+## Changelog
+
+- [Improved Wint's characterisation in early chapters](https://github.com/jevakallio/NaNoWriMo/pull/6) - Nov 3
+
+_Read the [detailed changelog here](CHANGELOG.md)._
+
 ## FAQ
 
 ### When can I read it?
