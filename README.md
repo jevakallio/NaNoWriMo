@@ -10,12 +10,14 @@ Here for the first time? [Start reading here!](chapters/00-preface.md)
 
 ## Table of Contents
 
-- [Preface](chapters/00-preface.md)
-- [Chapter 1](chapters/01.md) - Nov 1 - 2533 words (12m read)
-- [Chapter 2](chapters/02.md) - Nov 1 - 1539 words (8m read)
-- [Chapter 3](chapters/03.md) - Nov 1 - 2820 words (14m read)
-- [Chapter 4](chapters/04.md) - Nov 2 - 3574 words (18m read)
-- [Chapter 5](chapters/05.md) - Nov 3 - 3019 words (15m read)
+- [Preface](chapters/00-preface.md) - Start here
+- [Chapter 1](chapters/01.md) - Nov 1 - 2906 words (12m read)
+- [Chapter 2](chapters/02.md) - Nov 1 - 1629 words (8m read)
+- [Chapter 3](chapters/03.md) - Nov 1 - 2850 words (14m read)
+- [Chapter 4](chapters/04.md) - Nov 2 - 3595 words (18m read)
+- [Chapter 5](chapters/05.md) - Nov 3 - 3047 words (15m read)
+
+_Current total: 14027 words (28.1% of NaNoWriMo goal)._
 
 ## FAQ
 
