@@ -15,6 +15,7 @@ Here for the first time? [Start reading here!](chapters/00-preface.md)
 - [Chapter 2](chapters/02.md) - Nov 1 - 1539 words (8m read)
 - [Chapter 3](chapters/03.md) - Nov 1 - 2820 words (14m read)
 - [Chapter 4](chapters/04.md) - Nov 2 - 3574 words (18m read)
+- [Chapter 5](chapters/05.md) - Nov 3 - 3019 words (15m read)
 
 ## FAQ
 
