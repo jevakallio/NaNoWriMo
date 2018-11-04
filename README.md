@@ -15,15 +15,17 @@ Here for the first time? [Start reading here!](chapters/00-preface.md)
 - [Chapter 2](chapters/02.md) - Nov 1 - 1629 words (8m read)
 - [Chapter 3](chapters/03.md) - Nov 1 - 2850 words (14m read)
 - [Chapter 4](chapters/04.md) - Nov 2 - 3595 words (18m read)
-- [Chapter 5](chapters/05.md) - Nov 3 - 3047 words (15m read)
+- [Chapter 5](chapters/05.md) - Nov 3 - 3135 words (15m read)
 
-_Current total: 14027 words (28.1% of NaNoWriMo goal)._
+_Current total: 14115 words (28.2% of NaNoWriMo goal)._
 
 ## Changelog
 
 - [Improved Wint's characterisation in early chapters](https://github.com/jevakallio/NaNoWriMo/pull/6) - Nov 3
 
-_Read the [detailed changelog here](CHANGELOG.md)._
+- [Make it clearer who Oleg is monitoring](https://github.com/jevakallio/NaNoWriMo/commit/a1e8cc9fcfa8f74f282b2df1cbc4abc1cfc232d5) - Nov 4
+
+  _Read the [detailed changelog here](CHANGELOG.md)._
 
 ## FAQ
 
