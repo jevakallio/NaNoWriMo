@@ -15,9 +15,10 @@ Here for the first time? [Start reading here!](chapters/00-preface.md)
 - [Chapter 2](chapters/02.md) - Nov 1 - 1629 words (8m read)
 - [Chapter 3](chapters/03.md) - Nov 1 - 2850 words (14m read)
 - [Chapter 4](chapters/04.md) - Nov 2 - 3595 words (18m read)
-- [Chapter 5](chapters/05.md) - Nov 3 - 3135 words (15m read)
+- [Chapter 5](chapters/05.md) - Nov 3 - 3127 words (15m read)
+- [Chapter 6](chapters/06.md) - Nov 4 - 3378 words (17m read)
 
-_Current total: 14115 words (28.2% of NaNoWriMo goal)._
+_Current total: 17485 words (35.0% of NaNoWriMo goal)._
 
 ## Changelog
 
