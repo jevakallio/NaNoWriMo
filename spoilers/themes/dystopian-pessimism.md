@@ -7,6 +7,11 @@
 - For the purposes of these story, we'll focus on the subset of these people who also understand technology and view it as a useful tool when harnessed correctly -- wind/solar energy, medicine, communication tools, computers as data storage and research for the continued human communication process
 - Therefore they focus on the post-tech world and try to develop survival tools
 
+### Analysis of the modern world
+
+- Depressed people want to go work in a factory and don't have to have an emotional relationship to the work
+- In a way we are all depressed by the system
+
 ### Character: Aron Starr
 
 - Believes people should live in self-sustaining local communities that derive their livelihood from nature
