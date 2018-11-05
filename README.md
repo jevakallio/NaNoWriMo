@@ -2,15 +2,15 @@ _What if you had a few hundred million dollars in your wallet, but you don't rem
 
 "Wallet" (working title) is a crypto-punk story about a man trying to survive in the post-normal world.
 
+Here for the first time? [Start reading here!](https://jevakallio.github.io/NaNoWriMo/chapters/00-preface)
+
 ![Photo by Hans Eiskonen on Unsplash](assets/images/banner.jpg)
 
 (Photo by [Hans Eiskonen](https://unsplash.com/@eiskonen) on [Unsplash](https://unsplash.com))
 
-Here for the first time? [Start reading here!](chapters/00-preface.md)
-
 ## Table of Contents
 
-- [Preface](chapters/00-preface.md) - Start here
+- [Preface](chapters/00-preface.md)
 - [Chapter 1](chapters/01.md) - Nov 1 - 2906 words (12m read)
 - [Chapter 2](chapters/02.md) - Nov 1 - 1629 words (8m read)
 - [Chapter 3](chapters/03.md) - Nov 1 - 2850 words (14m read)
@@ -22,11 +22,11 @@ _Current total: 17485 words (35.0% of NaNoWriMo goal)._
 
 ## Changelog
 
-- [Improved Wint's characterisation in early chapters](https://github.com/jevakallio/NaNoWriMo/pull/6) - Nov 3
+Nov 3: [Improved Wint's characterisation](https://github.com/jevakallio/NaNoWriMo/pull/6)
 
-- [Make it clearer who Oleg is monitoring](https://github.com/jevakallio/NaNoWriMo/commit/a1e8cc9fcfa8f74f282b2df1cbc4abc1cfc232d5) - Nov 4
+Nov 4: [Made it clearer who Oleg is monitoring](https://github.com/jevakallio/NaNoWriMo/commit/a1e8cc9fcfa8f74f282b2df1cbc4abc1cfc232d5)
 
-  _Read the [detailed changelog here](CHANGELOG.md)._
+_Read the [detailed changelog here](CHANGELOG.md)._
 
 ## FAQ
 
@@ -34,7 +34,7 @@ _Current total: 17485 words (35.0% of NaNoWriMo goal)._
 
 You can read my daily chapters starting November 1st. I'll try to write most days, finishing at over 50,000 words on November 30th as per the rules of [NaNoWriMo](http://nanowrimo.org).
 
-[Follow @wallet_novel on Twitter](https://twitter.com/wallet_novel) for updates throughout the month.
+Head on over to the [formatted version of the book](https://jevakallio.github.io/NaNoWriMo) to start reading, and [follow @wallet_novel on Twitter](https://twitter.com/wallet_novel) for updates throughout the month.
 
 ### Where can I read it?
 
@@ -60,7 +60,7 @@ I think it's an interesting experiment, and I want to see what comes out of it. 
 
 ### Can I give you feedback?
 
-Yes, but be nice! For bigger theme/character/story related feedback, [open a GitHub issue](https://github.com/jevakallio/NaNoWriMo/issue?). For things related to a particular line of text you can [find the corresponding commit where I introduced it](https://github.com/jevakallio/NaNoWriMo/commits/master) and leave a comment right on the line!
+Yes, but be nice! For bigger theme/character/story related feedback, [open a GitHub issue](https://github.com/jevakallio/NaNoWriMo/issue). For things related to a particular line of text you can [find the corresponding commit where I introduced it](https://github.com/jevakallio/NaNoWriMo/commits/master) and leave a comment right on the line!
 
 Please don't leave comments about typos and such, but if you want to help fix them, [Pull Requests are welcome!](https://github.com/jevakallio/NaNoWriMo/pulls). I'll accept corrections to clear errors, but please don't try to change the writing style or introduce new paragraphs of text. It's my book, not yours!
 
