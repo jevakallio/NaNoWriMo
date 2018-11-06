@@ -11,14 +11,15 @@ Here for the first time? [Start reading here!](https://jevakallio.github.io/NaNo
 ## Table of Contents
 
 - [Preface](chapters/00-preface.md)
-- [Chapter 1](chapters/01.md) - Nov 1 - 2906 words (12m read)
-- [Chapter 2](chapters/02.md) - Nov 1 - 1629 words (8m read)
-- [Chapter 3](chapters/03.md) - Nov 1 - 2850 words (14m read)
-- [Chapter 4](chapters/04.md) - Nov 2 - 3595 words (18m read)
-- [Chapter 5](chapters/05.md) - Nov 3 - 3127 words (15m read)
-- [Chapter 6](chapters/06.md) - Nov 4 - 3378 words (17m read)
+- [Chapter 1](chapters/01.md) - Nov 1 - 2906 words
+- [Chapter 2](chapters/02.md) - Nov 1 - 1629 words
+- [Chapter 3](chapters/03.md) - Nov 1 - 2850 words
+- [Chapter 4](chapters/04.md) - Nov 2 - 3595 words
+- [Chapter 5](chapters/05.md) - Nov 3 - 3127 words
+- [Chapter 6](chapters/06.md) - Nov 4 - 3378 words
+- [Chapter 7](chapters/07.md) - Nov 5 - 3701 words
 
-_Current total: 17485 words (35.0% of NaNoWriMo goal)._
+_Current total: 21177 words (42.4% of NaNoWriMo goal)._
 
 ## Changelog
 
