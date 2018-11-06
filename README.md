@@ -16,10 +16,11 @@ Here for the first time? [Start reading here!](https://jevakallio.github.io/NaNo
 - [Chapter 3](chapters/03.md) - Nov 1 - 2850 words
 - [Chapter 4](chapters/04.md) - Nov 2 - 3595 words
 - [Chapter 5](chapters/05.md) - Nov 3 - 3127 words
-- [Chapter 6](chapters/06.md) - Nov 4 - 3378 words
-- [Chapter 7](chapters/07.md) - Nov 5 - 3701 words
+- [Chapter 6](chapters/06.md) - Nov 4 - 3369 words
+- [Chapter 7](chapters/07.md) - Nov 5 - 3692 words
+- [Chapter 8](chapters/08.md) - Nov 6 - 695 words
 
-_Current total: 21177 words (42.4% of NaNoWriMo goal)._
+_Current total: 21862 words (43.7% of NaNoWriMo goal)._
 
 ## Changelog
 
