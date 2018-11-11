@@ -22,9 +22,10 @@ Here for the first time? [Start reading here!](https://jevakallio.github.io/NaNo
 - [Chapter 9](chapters/09.md) - Nov 6 - 1708 words
 - [Chapter 10](chapters/10.md) - Nov 7 - 1657 words
 - [Chapter 11](chapters/11.md) - Nov 9 - 537 words
-- [Chapter 12](chapters/12.md) - Nov 10 - 884 words
+- [Chapter 12](chapters/12.md) - Nov 10 - 875 words
+- [Chapter 13](chapters/13.md) - Nov 11 - 2619 words
 
-_Current total: 26636 words (53.3% of NaNoWriMo goal)._
+_Current total: 27590 words (55.2% of NaNoWriMo goal)._
 
 ## Changelog
 
