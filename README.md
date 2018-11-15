@@ -28,9 +28,10 @@ Here for the first time? [Start reading here!](https://jevakallio.github.io/NaNo
 - [Chapter 15](chapters/15.md) - Nov 11 - 1263 words
 - [Chapter 16](chapters/16.md) - Nov 11 - 2117 words
 - [Chapter 17](chapters/17.md) - Nov 12 - 2557 words
-- [Chapter 18](chapters/18.md) - Nov 13 - 2089 words
+- [Chapter 18](chapters/18.md) - Nov 13 - 2080 words
+- [Chapter 19](chapters/19.md) - Nov 15 - 3329 words
 
-_Current total: 37422 words (74.8% of NaNoWriMo goal)._
+_Current total: 40742 words (81.5% of NaNoWriMo goal)._
 
 ## Changelog
 
