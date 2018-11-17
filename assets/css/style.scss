@@ -16,3 +16,7 @@
 .markdown-body ul li::before {
   content: "– ";
 }
+
+li a:visited {
+  color: purple;
+}
