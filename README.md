@@ -1,12 +1,20 @@
-_What if you had a few hundred million dollars in your wallet, but you don't remember where you left it?_
-
-"Wallet" (working title) is a crypto-punk story about a man trying to survive in the post-normal world.
+_"WALLET" is a crypto-punk novel about a man trying to survive in the post-normal world._
 
 Here for the first time? [Start reading here!](https://jevakallio.github.io/NaNoWriMo/chapters/00-preface)
 
 ![Photo by Hans Eiskonen on Unsplash](assets/images/banner.jpg)
 
 (Photo by [Hans Eiskonen](https://unsplash.com/@eiskonen) on [Unsplash](https://unsplash.com))
+
+## Synopsis
+
+Wint Webster and technology just don't get along. An editor of a once prestigious newspaper, his way of life is constantly under threat by the Internet attention economy. The last straw comes when his new boss, the mysterious Silicon Valley magnate Zee Chakramurthy reveals their latest "innovation": an Artificial Intelligence algorithm that will soon write the news for him, truth and decency be damned.
+
+Then, one day Wint discovers the solution to all his problems: A long-forgotten Bitcoin wallet with enough money to buy out the entire paper.
+
+Too bad he has no idea where he left his wallet.
+
+When he begins retracing his steps in search of his coins, he stumbles upon a weapon that could end the world as we know it. Only he can stop it from happening, but in order to do it, he needs to open up a lot of old wounds and figure out what the hell is going on?
 
 ## Table of Contents
 
