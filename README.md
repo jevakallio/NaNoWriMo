@@ -41,9 +41,10 @@ When he begins retracing his steps in search of his coins, he stumbles upon a we
 - [Chapter 20](chapters/20.md) - Nov 17 - 2871 words
 - [Chapter 21](chapters/21.md) - Nov 18 - 1571 words
 - [Chapter 22](chapters/22.md) - Nov 18 - 1800 words
-- [Chapter 23](chapters/23.md) - Nov 18 - 1669 words
+- [Chapter 23](chapters/23.md) - Nov 18 - 1659 words
+- [Chapter 24](chapters/24.md) - Nov 19 - 1460 words
 
-_Current total: 48638 words (97.3% of NaNoWriMo goal)._
+_Current total: 50088 words (100.2% of NaNoWriMo goal)._
 
 ## Changelog
 
