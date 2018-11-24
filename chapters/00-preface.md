@@ -7,6 +7,6 @@ _For Susanne._
 > I'm the chosen one <br/>
 > Flowers never pick themselves
 
-— _Drake_
+— _Sandra's Rose_, Drake
 
 _Read on_: [Chapter 1](01.md)
