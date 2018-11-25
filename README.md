@@ -45,8 +45,11 @@ When he begins retracing his steps in search of his coins, he stumbles upon a we
 - [Chapter 24](chapters/24.md) - Nov 19 - 1450 words
 - [Chapter 25](chapters/25.md) - Nov 22 - 3538 words
 - [Chapter 26](chapters/26.md) - Nov 24 - 2829 words
+- [Chapter 27](chapters/27.md) - Nov 25 - 1627 words
+- [Chapter 28](chapters/28.md) - Nov 25 - 973 words
+- [Chapter 29](chapters/29.md) - Nov 25 - 913 words
 
-_Current total: 56498 words (113.0% of NaNoWriMo goal)._
+_Current total: 60000 words (120.0% of NaNoWriMo goal)._
 
 ## Changelog
 
