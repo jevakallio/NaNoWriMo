@@ -18,6 +18,8 @@ When he begins retracing his steps in search of his coins, he stumbles upon a we
 
 ## Table of Contents
 
+#### Part One: Search
+
 - [Preface](chapters/00-preface.md)
 - [Chapter 1](chapters/01.md) - Nov 1 - 2906 words
 - [Chapter 2](chapters/02.md) - Nov 1 - 1629 words
@@ -44,6 +46,9 @@ When he begins retracing his steps in search of his coins, he stumbles upon a we
 - [Chapter 23](chapters/23.md) - Nov 18 - 1659 words
 - [Chapter 24](chapters/24.md) - Nov 19 - 1450 words
 - [Chapter 25](chapters/25.md) - Nov 22 - 3538 words
+
+#### Part Two: Destroy
+
 - [Chapter 26](chapters/26.md) - Nov 24 - 2829 words
 - [Chapter 27](chapters/27.md) - Nov 25 - 1627 words
 - [Chapter 28](chapters/28.md) - Nov 25 - 973 words
